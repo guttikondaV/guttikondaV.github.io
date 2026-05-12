@@ -3,16 +3,12 @@ import gallery1 from "@/assets/gallery-1.jpeg";
 import gallery2 from "@/assets/gallery-2.jpeg";
 import gallery3 from "@/assets/gallery-3.jpeg";
 import gallery4 from "@/assets/gallery-4.jpeg";
-import gallery5 from "@/assets/gallery-5.png";
-import gallery6 from "@/assets/gallery-6.png";
 
 const photos = [
   { src: gallery1, alt: "SrivenPros team collaborating on laptops at a community event" },
   { src: gallery2, alt: "SrivenPros team members networking and discussing ideas" },
   { src: gallery3, alt: "Team members engaging in a lively group discussion" },
   { src: gallery4, alt: "Wide view of a SrivenPros community workshop event" },
-  { src: gallery5, alt: "Life at SrivenPros: Volleyball Contest" },
-  { src: gallery6, alt: "Life at SrivenPros: Volleyball Contest" },
 ];
 
 const GallerySection = () => {

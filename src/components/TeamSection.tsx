@@ -17,7 +17,7 @@ const team = [
     bio: "Anand is a seasoned business leader with over 35 years of experience spanning engineering, supply chain, IT, human resources, and the non-profit sector. With leadership roles at Abbott Labs, i2 Technologies, Infosys, and C4ITA, he has consistently driven innovative change and business transformation. As founder and chairperson of C4ITA, he also serves on advisory councils including D128 Foundation for Learning and Harper College's AI & Cloud BILT.",
   },
   {
-    name: "Ken Ropeniak",
+    name: "Ken Ropiak",
     title: "Board of Advisor",
     photo: teamKen,
     bio: "Ken brings a wealth of expertise as a Senior Program/PMP Project Manager, Certified Scrum Master, CSPO, Six Sigma Green Belt, Solutions Architect, and Business Development Executive. His versatile skill set and proven track record in delivering complex programs make him a valuable strategic asset to SrivenPros' growth and client success.",
