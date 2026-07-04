@@ -47,7 +47,16 @@ const HeroSection = () => {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.5 }}
-            className="text-lg md:text-xl text-primary-foreground/70 max-w-xl mb-10 leading-relaxed"
+            className="text-lg md:text-xl text-primary-foreground/70 max-w-xl mb-6 leading-relaxed"
+          >
+            We solve business problems using AI, technology, and the right talent.
+          </motion.p>
+
+          <motion.p
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.55 }}
+            className="text-base md:text-lg text-primary-foreground/60 max-w-xl mb-10 leading-relaxed"
           >
             SrivenPros connects top-tier IT, AI, Machine Learning, and
             Cybersecurity talent with leading organizations across commercial,
