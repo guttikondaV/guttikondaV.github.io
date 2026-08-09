@@ -58,9 +58,7 @@ const HeroSection = () => {
             transition={{ duration: 0.7, delay: 0.55 }}
             className="text-base md:text-lg text-primary-foreground/60 max-w-xl mb-10 leading-relaxed"
           >
-            SrivenPros connects top-tier IT, AI, Machine Learning, and
-            Cybersecurity talent with leading organizations across commercial,
-            non-profit, and other sectors — powering secure, intelligent enterprises.
+            Sriven Pros helps organizations solve technology problems through specialized teams that take ownership from discovery through delivery.”
           </motion.p>
 
           <motion.div

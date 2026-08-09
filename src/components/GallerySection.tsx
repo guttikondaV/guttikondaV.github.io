@@ -7,8 +7,8 @@ import gallery6 from "@/assets/gallery-6.jpeg";
 const photos = [
   { src: gallery1, alt: "SrivenPros team collaborating on laptops at a community event" },
   { src: gallery2, alt: "SrivenPros team members networking and discussing ideas" },
-  { src: gallery5.url, alt: "SrivenPros team members together at the office" },
-  { src: gallery6.url, alt: "SrivenPros leader presenting at a community event" },
+  { src: gallery5, alt: "SrivenPros team members together at the office" },
+  { src: gallery6, alt: "SrivenPros leaders Roy and Ratnakar at an event" },
 ];
 
 const GallerySection = () => {

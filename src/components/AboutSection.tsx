@@ -28,7 +28,10 @@ const AboutSection = () => {
               <span className="text-gradient">Modern Enterprises</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              Sriven Pros helps organizations solve technology problems through specialized teams that take ownership from discovery through delivery —
+              SSrivenPros is a premier talent partner specializing in IT,
+              Artificial Intelligence, Machine Learning, and Cybersecurity
+              consulting. We deliver high-caliber experts who help organizations
+              build, scale, secure, and operationalize intelligent systems —
               driving measurable outcomes across commercial and non-profit sectors.
             </p>
             <ul className="space-y-4">
