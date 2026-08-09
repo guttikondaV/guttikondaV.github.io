@@ -58,7 +58,7 @@ const HeroSection = () => {
             transition={{ duration: 0.7, delay: 0.55 }}
             className="text-base md:text-lg text-primary-foreground/60 max-w-xl mb-10 leading-relaxed"
           >
-            Sriven Pros helps organizations solve technology problems through specialized teams that take ownership from discovery through delivery.”
+            Sriven Pros helps organizations solve technology problems through specialized teams that take ownership from discovery through delivery
           </motion.p>
 
           <motion.div

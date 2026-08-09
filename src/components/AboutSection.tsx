@@ -28,7 +28,7 @@ const AboutSection = () => {
               <span className="text-gradient">Modern Enterprises</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              SSrivenPros is a premier talent partner specializing in IT,
+              SrivenPros is a premier talent partner specializing in IT,
               Artificial Intelligence, Machine Learning, and Cybersecurity
               consulting. We deliver high-caliber experts who help organizations
               build, scale, secure, and operationalize intelligent systems —
