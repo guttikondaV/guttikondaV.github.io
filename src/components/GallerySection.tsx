@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import gallery1 from "@/assets/gallery-1.jpeg";
 import gallery2 from "@/assets/gallery-2.jpeg";
-import gallery5 from "@/assets/gallery-5.png.asset.json";
-import gallery6 from "@/assets/gallery-6.png.asset.json";
+import gallery5 from "@/assets/gallery-5.jpeg";
+import gallery6 from "@/assets/gallery-6.jpeg";
 
 const photos = [
   { src: gallery1, alt: "SrivenPros team collaborating on laptops at a community event" },
